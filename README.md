@@ -98,6 +98,11 @@ Commercial rights remain controlled by the original creator,
 copyright holder, or authorized project owners unless  
 explicit permission is granted.  
 
+## 🌟 Contact us
+Any suggestions or questions:  
+Email: xprgroupcorporation@gmail.com
+
+
 ## 📄 Legal Notice
 
 This repository and license text are provided for  
